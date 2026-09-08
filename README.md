@@ -100,7 +100,6 @@ Biovo1020A/
 │   ├── DeleteRecords/
 │   ├── EnrollUser/
 │   └── SearchAndVerify/
-├── PIN_Definition/
 ├── library.properties
 ├── LICENSE
 └── README.md
