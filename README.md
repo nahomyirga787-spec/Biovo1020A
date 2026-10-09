@@ -32,6 +32,7 @@ The library communicates directly with the sensor using its native **0xF5 UART p
 ## Hardware
 
 ### Sensor Pinout
+<img width="308" height="496" alt="BIOVO_PIN_Num" src="https://github.com/user-attachments/assets/b3d34418-609c-460b-933b-3b962989518e" />
 
 | Pin | Function |
 |---:|---|
